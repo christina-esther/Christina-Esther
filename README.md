@@ -1,6 +1,6 @@
-
+<!-- Banner -->
 <p align="center">
-  <img src="YOUR-BANNER-LINK-HERE" width="100%" alt="banner"/>
+  <img src="YOUR_BANNER_LINK" width="100%" />
 </p>
 
 <h1 align="center">
@@ -8,11 +8,42 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FF9ECF&center=true&vCenter=true&width=700&lines=☁️+Exploring+tech,+creativity+%26+little+ideas+that+grow+into+something+beautiful" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&pause=1000&color=FF8FC7&center=true&vCenter=true&width=900&lines=☁️+Exploring+tech,+creativity+%26+little+ideas+that+grow+into+something+beautiful" />
 </p>
 
-# 💫 About Me:
-🔭 I’m currently working on<br>Building creative tech projects and improving my development skills while exploring how small ideas can turn into impactful solutions.<br><br>👯 I’m looking to collaborate on<br>Fun and meaningful projects in web development, open-source contributions, and anything that blends creativity with code.<br><br>🤝 I’m looking for help with<br>Leveling up in advanced development concepts, clean architecture, and becoming more confident in real-world project building.<br><br>🌱 I’m currently learning<br>Computer engineering fundamentals, full-stack development, and sharpening my problem-solving skills one step at a time.<br><br>💬 Ask me about<br>Tech journeys, beginner-friendly coding tips, GitHub setups, and how to stay consistent when learning feels overwhelming.<br><br>⚡ Fun fact<br>I enjoy turning random ideas into aesthetic digital creations ✨ — and I believe even small code snippets can tell beautiful stories.
+<hr>
+
+<p align="center">
+✨ ✨ I am a Computer Engineering student with a strong interest in technology, software development, and continuous learning. Passionate about building meaningful digital experiences, I enjoy exploring emerging technologies, strengthening my development skills, and transforming creative ideas into practical solutions. With a growth-oriented mindset, I continuously work toward expanding my technical knowledge while building a solid foundation for a career in the tech industry.
+</p>
+
+---
+
+## 💫 About Me
+
+<img align="right" width="320" src="YOUR_SIDE_IMAGE_LINK">
+
+🔭 **I’m currently working on**  
+Building creative tech projects and improving my development skills while exploring how small ideas can turn into impactful solutions.  
+
+👯 **I’m looking to collaborate on**  
+Fun and meaningful projects in web development, open-source contributions, and anything that blends creativity with code.  
+
+🤝 **I’m looking for help with**  
+Leveling up in advanced development concepts, clean architecture, and becoming more confident in real-world project building.  
+
+🌱 **I’m currently learning**  
+Computer engineering fundamentals, full-stack development, and sharpening my problem-solving skills one step at a time.  
+
+💬 **Ask me about**  
+Tech journeys, beginner-friendly coding tips, GitHub setups, and how to stay consistent when learning feels overwhelming.  
+
+⚡ **Fun fact**  
+I enjoy turning random ideas into aesthetic digital creations ✨ — and I believe even small code snippets can tell beautiful stories.
+
+<br clear="right"/>
+
+---
 
 
 ## 🌐 Socials:
