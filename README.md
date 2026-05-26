@@ -17,7 +17,7 @@
 
 ## 💫 About Me
 
-<img align="right" width="320" src="YOUR_SIDE_IMAGE_LINK">
+<img align="right" width="320" src="./download.jpg"/>
 
 🔭 **I’m currently working on**  
 Building creative tech projects and improving my development skills while exploring how small ideas can turn into impactful solutions.  
