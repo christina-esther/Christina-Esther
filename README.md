@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_LINK" width="100%" />
+  <img src="./Screenshot%202026-05-27%20031218.png" width="100%" />
 </p>
 
 <h1 align="center">
