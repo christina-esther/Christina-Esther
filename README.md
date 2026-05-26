@@ -1,6 +1,15 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/christina-esther/Christina-Esther/main/biot.jpg" width="100%" />
-</div>
+
+<p align="center">
+  <img src="YOUR-BANNER-LINK-HERE" width="100%" alt="banner"/>
+</p>
+
+<h1 align="center">
+   🌷 Hi, I'm Christina
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FF9ECF&center=true&vCenter=true&width=700&lines=☁️+Exploring+tech,+creativity+%26+little+ideas+that+grow+into+something+beautiful" />
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on<br>Building creative tech projects and improving my development skills while exploring how small ideas can turn into impactful solutions.<br><br>👯 I’m looking to collaborate on<br>Fun and meaningful projects in web development, open-source contributions, and anything that blends creativity with code.<br><br>🤝 I’m looking for help with<br>Leveling up in advanced development concepts, clean architecture, and becoming more confident in real-world project building.<br><br>🌱 I’m currently learning<br>Computer engineering fundamentals, full-stack development, and sharpening my problem-solving skills one step at a time.<br><br>💬 Ask me about<br>Tech journeys, beginner-friendly coding tips, GitHub setups, and how to stay consistent when learning feels overwhelming.<br><br>⚡ Fun fact<br>I enjoy turning random ideas into aesthetic digital creations ✨ — and I believe even small code snippets can tell beautiful stories.
