@@ -10,7 +10,7 @@
 <hr>
 
 <p align="center">
-✨ I am a Computer Engineering student with a strong interest in technology, software development, and continuous learning. Passionate about building meaningful digital experiences, I enjoy exploring emerging technologies, strengthening my development skills, and transforming creative ideas into practical solutions. With a growth-oriented mindset, I continuously work toward expanding my technical knowledge while building a solid foundation for a career in the tech industry.
+✨ I am a Electronic and Computer Engineering student with a strong interest in technology, software development, and continuous learning. Passionate about building meaningful digital experiences, I enjoy exploring emerging technologies, strengthening my development skills, and transforming creative ideas into practical solutions. With a growth-oriented mindset, I continuously work toward expanding my technical knowledge while building a solid foundation for a career in the tech industry.
 </p>
 
 ---
