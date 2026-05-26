@@ -3,10 +3,6 @@
   <img src="./Screenshot%202026-05-27%20031218.png" width="100%" />
 </p>
 
-<h1 align="center">
-   🌷 Hi, I'm Christina
-</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&pause=1000&color=FF8FC7&center=true&vCenter=true&width=900&lines=☁️+Exploring+tech,+creativity+%26+little+ideas+that+grow+into+something+beautiful" />
 </p>
@@ -14,7 +10,7 @@
 <hr>
 
 <p align="center">
-✨ ✨ I am a Computer Engineering student with a strong interest in technology, software development, and continuous learning. Passionate about building meaningful digital experiences, I enjoy exploring emerging technologies, strengthening my development skills, and transforming creative ideas into practical solutions. With a growth-oriented mindset, I continuously work toward expanding my technical knowledge while building a solid foundation for a career in the tech industry.
+✨ I am a Computer Engineering student with a strong interest in technology, software development, and continuous learning. Passionate about building meaningful digital experiences, I enjoy exploring emerging technologies, strengthening my development skills, and transforming creative ideas into practical solutions. With a growth-oriented mindset, I continuously work toward expanding my technical knowledge while building a solid foundation for a career in the tech industry.
 </p>
 
 ---
